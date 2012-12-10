@@ -2,8 +2,6 @@ package jiglib.collision
 {
 	import flash.geom.Vector3D;
 
-	import jiglib.math.*;
-
 	public class CollPointInfo
 	{
 		public var initialPenetration:Number;
